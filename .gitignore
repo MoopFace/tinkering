@@ -1,4 +1,5 @@
 .bashrc
 .profile
 .ssh/
-
+.gitconfig
+.viminfo
